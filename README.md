@@ -4,6 +4,6 @@ Indoor navigation for robots has become a crucial part of their use in such envi
 ### Pipeline 
 ![Pipeline](https://github.com/nishantpandey4/3D-mapping-and-object-segmentation/blob/main/pipeline.jpg)
 
-###
+### Paper
 
 [3D mapping and obejct segmentation](https://github.com/nishantpandey4/3D-mapping-and-object-segmentation/blob/main/3D%20mapping%20and%20obejct%20segmentation.pdf)
