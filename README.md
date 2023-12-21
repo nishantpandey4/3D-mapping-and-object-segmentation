@@ -10,4 +10,4 @@ Indoor navigation for robots has become a crucial part of their use in such envi
 
 ### Outputs
 
-![Outputs]()
+![Outputs](https://github.com/nishantpandey4/3D-mapping-and-object-segmentation/blob/main/Outputs.png)
