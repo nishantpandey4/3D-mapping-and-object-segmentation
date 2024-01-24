@@ -3,10 +3,14 @@ Indoor navigation for robots has become a crucial part of their use in such envi
 
 ### Pipeline 
 
+In the package ```Pipeline.png```
 
 ### Paper
 
+In the package ```Report.pdf```
 
 ### Outputs
+
+In the package ```Output.png```
 
 
